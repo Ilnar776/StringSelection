@@ -1,0 +1,7 @@
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\Строки, гитхаб 15.03.23\StringSelection\bin\Debug\StringSelection.exe.config
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\Строки, гитхаб 15.03.23\StringSelection\bin\Debug\StringSelection.exe
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\Строки, гитхаб 15.03.23\StringSelection\bin\Debug\StringSelection.pdb
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\Строки, гитхаб 15.03.23\StringSelection\obj\Debug\StringSelection.csprojAssemblyReference.cache
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\Строки, гитхаб 15.03.23\StringSelection\obj\Debug\StringSelection.csproj.CoreCompileInputs.cache
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\Строки, гитхаб 15.03.23\StringSelection\obj\Debug\StringSelection.exe
+D:\Decy\Work\C#\Simple programs\Строки, гитхаб 21.09.22\Строки, гитхаб 15.03.23\StringSelection\obj\Debug\StringSelection.pdb
